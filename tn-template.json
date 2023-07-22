@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "name": "Tn Flag",
+      "sources": [
+        "https://raw.githubusercontent.com/houssembenali/placetn/main/tn.png"
+      ],
+      "x": 319, 
+      "y": 165
+    }
+  ]
+}
